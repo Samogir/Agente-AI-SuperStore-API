@@ -1,0 +1,6 @@
+pandas
+langchain
+langchain-experimental
+langchain-google-genai
+tabulate
+python-dotenv
